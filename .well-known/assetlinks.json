@@ -1,0 +1,29 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "kr.ejsoft.newsfilter.naver",
+      "sha256_cert_fingerprints":
+      ["CE:68:F9:50:CC:A5:62:FE:07:4B:06:C2:EF:05:18:48:42:2D:48:45:E1:9E:52:9A:00:7D:3F:37:41:6F:B2:FC", "F7:70:8D:28:55:95:E2:6F:80:6F:89:6A:A5:4F:A7:95:27:18:CE:DC:32:91:C1:03:EF:58:E3:6B:DE:20:3D:D7"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "kr.ejsoft.newsfilter.daum",
+      "sha256_cert_fingerprints":
+      ["DF:6A:9E:D5:5C:B3:67:60:32:90:78:A0:3D:74:96:7F:6C:12:0A:1C:D6:1C:B6:2C:9C:A6:05:84:43:0D:AA:16", "63:00:D0:E7:99:75:9B:59:C1:F5:82:87:5E:C8:CC:DA:3C:2B:54:8D:E6:F2:54:B6:86:25:A3:A9:84:28:3C:7D"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "kr.ejsoft.familyline",
+      "sha256_cert_fingerprints":
+      ["F0:8F:9A:A5:A6:CD:F7:86:0B:2E:40:B8:03:86:49:68:49:39:8A:EE:FA:62:FD:7C:DA:BB:BB:F5:B7:E7:EC:40", "E5:B9:77:14:B2:9A:D2:99:D1:D9:54:0C:A0:CC:14:A0:00:84:6A:08:DC:24:6D:F1:C2:8F:B1:25:18:09:DE:CB"]
+    }
+  }
+]
